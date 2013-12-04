@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   Gigatec
+ * @package    Gigatec_BackendLinks
+ */
+ -->
+<config>
+	<modules>
+		<Gigatec_BackendLinks>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Gigatec_BackendLinks>
+	</modules>
+</config>

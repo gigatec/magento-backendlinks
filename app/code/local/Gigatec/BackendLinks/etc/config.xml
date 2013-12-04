@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   Gigatec
+ * @package    Gigatec_BackendLinks
+ */
+ -->
+<config>
+	<modules>
+		<Gigatec_BackendLinks>
+			<version>1.0.0</version>
+		</Gigatec_BackendLinks>
+	</modules>
+	<global>
+		<blocks>
+			<adminhtml>
+				<rewrite>
+					<catalog_form_renderer_attribute_urlkey>Gigatec_BackendLinks_Block_Urlkey</catalog_form_renderer_attribute_urlkey>
+				</rewrite>
+			</adminhtml>
+		</blocks>
+	</global>
+</config>
